@@ -19,10 +19,7 @@ python pie_chart_showcase.py
 python -c "import pie_chart_showcase as p; p.main(save_png=True)"
 ```
 
-Output: 
-
-![Preview](pie_chart_showcase.png)
-
+This writes **pie\_chart\_showcase.png** next to the script.
 
 ## Requirements
 
@@ -36,6 +33,14 @@ matplotlib
 numpy
 ```
 
+## Output
+
+Include this image in your README for a visual preview:
+
+```markdown
+![Preview](pie_chart_showcase.png)
+```
+
 ## Why this is safe to publish
 
 - Uses self‑generated, fictional data
@@ -45,7 +50,7 @@ numpy
 ## Files
 
 - `pie_chart_showcase.py` — main script
-- `README_pie_chart_showcase.md` — this file
+- `README.md` — this file
 
 ## License
 
