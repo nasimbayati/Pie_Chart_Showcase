@@ -19,11 +19,10 @@ python pie_chart_showcase.py
 python -c "import pie_chart_showcase as p; p.main(save_png=True)"
 ```
 
-This writes **pie\_chart\_showcase.png** next to the script. Add it to your README:
+Output: 
 
-```markdown
 ![Preview](pie_chart_showcase.png)
-```
+
 
 ## Requirements
 
