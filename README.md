@@ -37,9 +37,9 @@ numpy
 
 Include this image in your README for a visual preview:
 
-```markdown
+
 ![Preview](pie_chart_showcase.png)
-```
+
 
 ## Why this is safe to publish
 
